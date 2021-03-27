@@ -58,6 +58,7 @@ public class PalindromeLinkedList {
 //    }
 //
 //    return true;
+        return false;
 }
 
 
