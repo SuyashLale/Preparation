@@ -6,6 +6,11 @@
 ## Directory-based project format:
 .idea/
 .metadata
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+
 
 # if you remove the above rule, at least ignore the following:
 
